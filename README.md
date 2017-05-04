@@ -6,6 +6,6 @@ Use a naive caching strategy whereby a specific call remains cached if:
 - The call has a moving average above x
 
 ### Executable
-Built on OS X
+Built on Intel OS X
 
  
